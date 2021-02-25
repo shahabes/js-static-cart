@@ -1,0 +1,2 @@
+# js-static-cart
+This is a static add to cart mechanism that is created using js and jQuery to understand traversing better. There is a persian toturial here: [Add to cart with js and jquery](https://aparat.com)
